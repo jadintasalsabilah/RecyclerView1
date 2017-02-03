@@ -1,5 +1,9 @@
 ## RecyclerView1
-* id.sch.smktelkom_mlg.learn.recyclerview1
+
+
+
+![1 1](https://cloud.githubusercontent.com/assets/22228545/22582456/a30b709a-ea19-11e6-9080-059c7d633901.jpeg)
+![1 2](https://cloud.githubusercontent.com/assets/22228545/22582463/b30484f0-ea19-11e6-9092-f91223f8176f.jpeg)
 
 ## Identitas
 * Nama  : Jadinta Salsabila Herdianti
@@ -8,8 +12,3 @@
 * NIS   : 4729/1448.070
 * Sekolah : SMK Telkom Malang
 
-## Screenshot Aplikasi
-<p align="center">
-  <img src="https://github.com/jadintasalsabilah/RecyclerView1/blob/master/satu.jpg" width="350"/>
-  <img src="https://github.com/jadintasalsabilah/RecyclerView1/blob/master/satuu.jpg" width="350"/>
-</p>
